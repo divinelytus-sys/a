@@ -1,6 +1,4 @@
--- key
--- made by melissa
-local SugarLibrary = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Yomkav2/Sugar-UI/refs/heads/main/Source'))()
+
 local Notification = SugarLibrary.Notification()
 
 Notification.new({
